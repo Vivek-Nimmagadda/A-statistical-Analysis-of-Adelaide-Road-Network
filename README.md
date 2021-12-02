@@ -6,7 +6,8 @@ As a part of this project we were given access to one-year’s worth of raw MAC 
 #Project Outcomes
 
 The primary objective of this project is to create a dashboard that allows users to visualise the following:
+
 •	Mean and median travel times between different Statistical Areas Level 1 (SA1) zones in the region, as well as some measure of dispersion (e.g. variance, percentiles).
+
 •	Frequency of use of different routes between different SA1 zones. 
 The dashboard also offers users the option to filter data by time of day, day of the week, month of the year, etc.
-![image](https://user-images.githubusercontent.com/29809579/144346588-7cbd5ba1-139e-451c-a4ee-8f762c9709ef.png)
