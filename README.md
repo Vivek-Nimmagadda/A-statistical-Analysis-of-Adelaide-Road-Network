@@ -11,3 +11,5 @@ The primary objective of this project is to create a dashboard that allows users
 
 •	Frequency of use of different routes between different SA1 zones. 
 The dashboard also offers users the option to filter data by time of day, day of the week, month of the year, etc.
+
+-> The Adelaide Road Network (Statistical Analysis).pdf document is a detailed report of all the work that we have done throughout the course of the project.
