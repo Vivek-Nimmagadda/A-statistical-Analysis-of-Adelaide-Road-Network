@@ -15,8 +15,8 @@ The dashboard also offers users the option to filter data by time of day, day of
 -> The Adelaide Road Network (Statistical Analysis).pdf document is a detailed report of all the work that we have done throughout the course of the project.
 
 The analysis that was performed in the project was broken down into smaller sections as follows:
-<br /> -> Finding best possible routes with Google API
-<br /> -> Time Series Analysis
-<br /> -> Visualization of routes with Power BI
-<br /> -> Visualization of routes with Tableau
-<br /> -> Summary Statistics by Sites and SA1 Zones in Tableau
+<br /> (i) Finding best possible routes with Google API
+<br /> (ii) Time Series Analysis
+<br /> (iii) Visualization of routes with Power BI
+<br /> (iv) Visualization of routes with Tableau
+<br /> (v) Summary Statistics by Sites and SA1 Zones in Tableau
