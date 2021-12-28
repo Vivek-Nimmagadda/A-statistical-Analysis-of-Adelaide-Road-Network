@@ -17,6 +17,6 @@ The dashboard also offers users the option to filter data by time of day, day of
 The analysis that was performed in the project was broken down into smaller sections as follows:
 <br /> -> Finding best possible routes with Google API
 <br /> -> Time Series Analysis
--> Visualization of routes with Power BI
--> Visualization of routes with Tableau
--> Summary Statistics by Sites and SA1 Zones in Tableau
+<br /> -> Visualization of routes with Power BI
+<br /> -> Visualization of routes with Tableau
+<br /> -> Summary Statistics by Sites and SA1 Zones in Tableau
